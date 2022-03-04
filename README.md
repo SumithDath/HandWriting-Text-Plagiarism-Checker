@@ -4,7 +4,6 @@
 • Clone Repository
 
 ``` 
-
    git clone https://github.com/SumithDath/HandWriting-Text-Plagiarism-Checker/
 ```
 
@@ -29,7 +28,6 @@ https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.1.202201
 Run Python script
 
 ```
-
     python script.py
 ```
 
